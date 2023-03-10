@@ -7,7 +7,8 @@ aliases:
   - about-susan
   - contact
 license: CC BY-NC-ND
-lastmod: '2023-03-05'
+lastmod: '2023-03-07'
+image: 
 menu:
     main: 
         weight: -90
@@ -15,9 +16,9 @@ menu:
             icon: user
 ---
 
-Hey there, I'm Susan. I am a software engineer who loves finding vulnerabilities in software architecture and working on the next big security software. I just finished my masters in computer science. You can find my thesis [here](thesis.pdf). 
+Hey there, I'm a software engineer who loves finding vulnerabilities in software and working on the next big security software. I just finished my masters in computer science. You can find my thesis [here](ThesisOnBugBountyPlatforms.pdf). You can also find my resume [here](SusanMcCartneyResume.pdf)
 
-In my free time, I like to read mystery novels, solve puzzles, bake and cook new recipes, and learn different hobbies with the supervision of my favorite pup, Lucy. The goal of this blog is to:
+In my free time, I like to read mystery novels, solve puzzles, bake and cook new recipes, and learn different hobbies with the supervision of my favorite dog, Lucy. The goal of this blog is to:
 
 1. present my masters research in less than 100 pages; 
 2. record the experience of trying to get that first software job; 

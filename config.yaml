@@ -45,8 +45,8 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        # emoji: 🍥
+        subtitle: Software Engineer
         avatar:
             enabled: true
             local: true
@@ -143,7 +143,7 @@ params:
             - type: archives
               params:
                   limit: 5
-            - type: categories
+            # - type: categories
               params:
                   limit: 10
             - type: tag-cloud
@@ -196,7 +196,7 @@ menu:
           name: LinkedIn
           url: https://linkedin.com/in/susan-a-mccartney
           params:
-              icon: brand-twitter
+              icon: linkedin
 
 related:
     includeNewer: true
