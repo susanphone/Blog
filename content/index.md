@@ -8,10 +8,7 @@ menu:
 title: "Welcome to my blog!"
 description: ""
 draft: false
-# image: "cover.webp"
 ---
-
-
 
 I'm a software engineer who loves finding vulnerabilities in software and maintaining security compliance. I just finished a Masters of Science in computer science. 
 

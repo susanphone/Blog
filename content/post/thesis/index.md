@@ -41,8 +41,7 @@ Trojan:
 
 Worm:
 malware that attaches to a vulnerability host to replicate itself on
-that computer and continuously searches another vulnerability host which can be replicated
-onto another computer within the same network [11].
+that computer and continuously searches another vulnerability host which can be replicated onto another computer within the same network [11].
 
 Virus:
 a viral set that contains one program that reproduces itself [6].
