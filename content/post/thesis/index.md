@@ -2,6 +2,7 @@
 title = "Assessing Potential Attack Vectors of Bug Bounty Platforms"
 date = "2023-03-06"
 description = "A summarized version of my 100 page thesis"
+draft=true
 tags = [
     "bug-bounty",
     "malware",
