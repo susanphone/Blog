@@ -55,9 +55,9 @@ params:
     article:
         math: false
         toc: true
-        readingTime: true
+        readingTime: false
         license:
-            enabled: true
+            enabled: false
             default: All Rights Reserved
 
     comments:
@@ -213,7 +213,7 @@ markup:
     goldmark:
         renderer:
             ## Set to true if you have HTML content inside Markdown
-            unsafe: false
+            unsafe: true
     tableOfContents:
         endLevel: 4
         ordered: true
@@ -226,3 +226,5 @@ markup:
         lineNos: true
         lineNumbersInTable: true
         tabWidth: 4
+
+
