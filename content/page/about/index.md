@@ -16,6 +16,14 @@ menu:
             icon: user
 ---
 
-I'm a software engineer who loves finding vulnerabilities in software and maintaining security compliance. I just finished a masters in computer science. You can find my thesis [here](assets/ThesisOnBugBountyPlatforms.pdf) and my resume [here](assets/SusanMcCartneyResume.pdf).
+I'm a software engineer who loves finding vulnerabilities in software and maintaining security compliance. I just finished a Masters of Science in computer science. 
+
+**Here's my [Thesis](/assets/thesis.pdf) and my [Resume](/assets/SusanMcCartneyResume.pdf).**
 
 In my free time, I like to read mystery novels, solve puzzles, bake/cook new recipes, and learn different hobbies with the supervision of my favorite dog, Lucy.
+
+I'm starting this blog to document my learning in Computer Science, and to share the things I already know.
+
+<p align="center">
+    <img style="border-radius:25px;" src="/assets/cover.webp"  width="50%">
+</p>
