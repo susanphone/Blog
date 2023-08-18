@@ -18,7 +18,7 @@ menu:
 
 I'm a software engineer who loves finding vulnerabilities in software and maintaining security compliance. I just finished a Masters of Science in computer science. 
 
-**Here's my [Thesis](/assets/thesis.pdf) and my [Resume](/assets/SusanMcCartneyResume.pdf).**
+**Here's my [Thesis](/assets/thesis.pdf) and my [Resume](/assets/SusanCornishResume.pdf).**
 
 In my free time, I like to read mystery novels, solve puzzles, bake/cook new recipes, and learn different hobbies with the supervision of my favorite dog, Lucy.
 
