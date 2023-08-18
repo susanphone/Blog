@@ -1,13 +1,13 @@
 baseURL: 'http://susanmccartney.dev/'
 languageCode: 'en-us'
-title: 'Susan McCartney'
+title: 'Susan Cornish (McCartney)'
 theme: 'hugo-theme-stack'
 paginate: 5
 
 languages:
     en:
         languageName: English
-        title: Susan McCartney
+        title: Susan Cornish (McCartney)
         description: Bio
         weight: 1
 
@@ -194,7 +194,7 @@ menu:
 
         - identifier: linkedin
           name: LinkedIn
-          url: https://linkedin.com/in/susan-a-mccartney
+          url: https://linkedin.com/in/susan-a-cornish
           params:
               icon: brand-linkedin
 
